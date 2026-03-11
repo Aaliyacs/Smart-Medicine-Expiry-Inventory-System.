@@ -1,0 +1,5 @@
+{
+  "name": "PharmaFIFO",
+  "description": "Professional pharmacological inventory system with FIFO dispensing logic based on expiry dates.",
+  "requestFramePermissions": ["camera"]
+}
